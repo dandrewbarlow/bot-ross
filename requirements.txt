@@ -1,3 +1,6 @@
 requests
 BeautifulSoup4
 tqdm
+tensorflow-gpu==2.3.1
+numpy
+matplotlib
